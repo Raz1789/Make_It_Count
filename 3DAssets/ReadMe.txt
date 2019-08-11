@@ -1,0 +1,1 @@
+All 3D assets and textures go here. Make individual folders for each assets.
